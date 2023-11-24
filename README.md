@@ -7,3 +7,9 @@ We're studying:
 * What is Git.
 * What is GitHub.
 * What is Markdown.
+* What is Commit.
+### There is to be learned:
+* Branch.
+* Push - sending to a remote repository.
+* Pull / Fetch - updating the local repository.
+* Merge.
